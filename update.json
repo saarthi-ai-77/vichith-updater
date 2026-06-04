@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0-3",
+  "notes": "Includes vertical scroll timeline panel, asset removal UI, first-run welcome check, Whisper CLI rust verify, mismatch drop toast, and caption style propagation.",
+  "pub_date": "2026-06-04T11:20:00+05:30",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1hORnl5MDNQZHlGdENhZk1UVm5ZMXJzaGE2b0IrSzcvQW4yTHBTTGNNRVp4MGNhVUd5bk1vUHB4MVAxemhaOVIvaUVWeTA0ODdGajRWL2huajVROE8wZkVwRDlkK3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNTUxNDgzCWZpbGU6VmljaGl0aF8xLjAuMC0zX3g2NC1zZXR1cC5leGUKVkw4WGJmNGdiMHprTHhYZENTalpXWXdmckJrRlZkN0ZwVjFQdkkxaUpvOHhIQ2N4RTdrZFA1UUdxOHdIMHdkVTR3UmlRNU9BVDJnamszWGpoTk1EQmc9PQo=",
+      "url": "https://github.com/saarthi-ai-77/vichith-updater/releases/download/v1.0.0-3/Vichith_1.0.0-3_x64-setup.exe"
+    }
+  }
+}
