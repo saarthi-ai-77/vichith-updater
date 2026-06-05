@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0-4",
-  "notes": "Playback stability fix: resolved CPAL audio clock jitter causing AV-sync spikes up to 234ms and frame stuttering during playback on Windows WASAPI.",
-  "pub_date": "2026-06-05T11:10:00+05:30",
+  "version": "1.1.0",
+  "notes": "Major update: CPAL audio clock jitter fix, playback stability improvements, timeline edit correctness, and multiple UI/UX enhancements.",
+  "pub_date": "2026-06-05T16:40:00+05:30",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1hORnl5MDNQZDB2QmxMZ0NUYTZyN0x3TDhTMjZFcEZmZUtocVFPajNnVUw4YTFWcnhpYlJpbyt3OVlpc2t4N3VaUzcvVnpKWVBISlpxZEZpZFQ1MlFmVE9BVWhsaEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjM4MTU0CWZpbGU6VmljaGl0aF8xLjAuMC00X3g2NC1zZXR1cC5leGUKY3ErR3RDYlBRUGhEcmlDR2lpa2RsK3g3cjBFTGVwVHE4VzZPaUUremFSb1F6Z0cxSklEMFRKc29Xb0xjT0p4R0ZFeTAwdTJuRlEvbkFsWms4WTlLQ0E9PQo=",
-      "url": "https://github.com/saarthi-ai-77/vichith-updater/releases/download/v1.0.0-4/Vichith_1.0.0-4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1hORnl5MDNQZDRaU0NEYmtOc1Q5WHVxQzcxaFNvVXNTcC9nS3NLaWxLL2lvRXlObTRaK3NmWkd5QWxwY2F1N1FGR2l3VVh2eUhnNGNoM1hHRzIybnlVSFRwTWdYdUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjU5MzYzCWZpbGU6VmljaGl0aF8xLjEuMF94NjQtc2V0dXAuZXhlCjZMTTltNmVOd1Boak82WncvU045RVpNdjJvYytuZWNpMWIrWlQ2VGhnTEkrMnVqS0luR2JIajA3b0pBTzNURE9DT2gxL1NqMEdvSkxLc2VqQ25jY0JRPT0K",
+      "url": "https://github.com/saarthi-ai-77/vichith-updater/releases/download/v1.1.0/Vichith_1.1.0_x64-setup.exe"
     }
   }
 }
