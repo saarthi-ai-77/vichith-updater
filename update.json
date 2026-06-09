@@ -1,11 +1,11 @@
 {
-  "version": "1.1.2",
-  "notes": "Version 1.1.2: Bugfix release resolving missing FFmpeg dynamic library dependencies (avutil, avcodec, etc.) on Windows installation.",
-  "pub_date": "2026-06-09T12:50:00+05:30",
+  "version": "1.1.3",
+  "notes": "Version 1.1.3: Hotfix release correcting installer script paths for FFmpeg dynamic library dependencies on Windows.",
+  "pub_date": "2026-06-09T13:06:00+05:30",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1hORnl5MDNQZDBJUUMra2hkN0xUTXlUeEI4TGh0dno2R1czbXhablhuRk1NbFRKbkt5N0RWNG1HZVQ2ekVWYmQ4YXBvMlFWcEY1Y1dsRGUyQnlRWWFQS1IySFA5aFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTg5NjQyCWZpbGU6VmljaGl0aF8xLjEuMl94NjQtc2V0dXAuZXhlCnlRVkFieU5YWXJOT1hoRUxpMUVQeTlqcEJDK3Z6TUd1K2k3RU5KTWNQTmZ6WVcwSjgrV1IxZHAwVlNFMkRpUmZlYlEwY1ZqL0FNUFRkYVplQkhFVEN3PT0K",
-      "url": "https://github.com/saarthi-ai-77/vichith-updater/releases/download/v1.1.2/Vichith_1.1.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1hORnl5MDNQZCtOdG8wMFNMOXV1T1orNWdRRVVaWXBoNmRtZS8wSW9TbUdTV29pSlh3ekhQaHlDTC9HK0hUM1RXU09Edi90TE16QytTb0R0ak5SSjBLMDZuM1Jzb3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTkwNTYzCWZpbGU6VmljaGl0aF8xLjEuM194NjQtc2V0dXAuZXhlCisrMWxTenJ5TlNIeHB2TURFTlcxdG1OTHpuRlFqZWFINmluWWUrRHRZWklZTmh3cFdKNTEwa29MSFlUOTlHQVo1dnQrR01SdDQwRzVFaHpMemJNOERRPT0K",
+      "url": "https://github.com/saarthi-ai-77/vichith-updater/releases/download/v1.1.3/Vichith_1.1.3_x64-setup.exe"
     }
   }
 }
