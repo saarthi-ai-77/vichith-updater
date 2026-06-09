@@ -1,11 +1,11 @@
 {
-  "version": "1.1.1",
-  "notes": "Version 1.1.1: Release with native-ffmpeg features, audio playback stability, and hot loop environment variable caching.",
-  "pub_date": "2026-06-09T12:38:00+05:30",
+  "version": "1.1.2",
+  "notes": "Version 1.1.2: Bugfix release resolving missing FFmpeg dynamic library dependencies (avutil, avcodec, etc.) on Windows installation.",
+  "pub_date": "2026-06-09T12:50:00+05:30",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1hORnl5MDNQZDR6OEFhQjhHYmVhZ1JCb0xRNk5UN2RIZm9iYVFJZzNDbFdCL3l2U09jOU13RzhJQitqZlpKQmU2bk5uaHYxUkExcm02MnRXbnQyS1FqMkh5cFE1dFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTg3ODYyCWZpbGU6VmljaGl0aF8xLjEuMV94NjQtc2V0dXAuZXhlClJlajk3SU9GWEpPQjNDbUkvdE9WYW9UQ1lPdVlqS1A1MnFuNm15cDF4TkYrcUpQVjRkYjJKdUVDRkRoOEhoYS9ESDVKUmZjakw0ZnR4cE9iZSs3UUFRPT0K",
-      "url": "https://github.com/saarthi-ai-77/vichith-updater/releases/download/v1.1.1/Vichith_1.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1hORnl5MDNQZDBJUUMra2hkN0xUTXlUeEI4TGh0dno2R1czbXhablhuRk1NbFRKbkt5N0RWNG1HZVQ2ekVWYmQ4YXBvMlFWcEY1Y1dsRGUyQnlRWWFQS1IySFA5aFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTg5NjQyCWZpbGU6VmljaGl0aF8xLjEuMl94NjQtc2V0dXAuZXhlCnlRVkFieU5YWXJOT1hoRUxpMUVQeTlqcEJDK3Z6TUd1K2k3RU5KTWNQTmZ6WVcwSjgrV1IxZHAwVlNFMkRpUmZlYlEwY1ZqL0FNUFRkYVplQkhFVEN3PT0K",
+      "url": "https://github.com/saarthi-ai-77/vichith-updater/releases/download/v1.1.2/Vichith_1.1.2_x64-setup.exe"
     }
   }
 }
