@@ -1,11 +1,11 @@
 {
-  "version": "1.1.0",
-  "notes": "Major update: CPAL audio clock jitter fix, playback stability improvements, timeline edit correctness, and multiple UI/UX enhancements.",
-  "pub_date": "2026-06-05T16:40:00+05:30",
+  "version": "1.1.1",
+  "notes": "Version 1.1.1: Release with native-ffmpeg features, audio playback stability, and hot loop environment variable caching.",
+  "pub_date": "2026-06-09T12:38:00+05:30",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1hORnl5MDNQZDRaU0NEYmtOc1Q5WHVxQzcxaFNvVXNTcC9nS3NLaWxLL2lvRXlObTRaK3NmWkd5QWxwY2F1N1FGR2l3VVh2eUhnNGNoM1hHRzIybnlVSFRwTWdYdUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjU5MzYzCWZpbGU6VmljaGl0aF8xLjEuMF94NjQtc2V0dXAuZXhlCjZMTTltNmVOd1Boak82WncvU045RVpNdjJvYytuZWNpMWIrWlQ2VGhnTEkrMnVqS0luR2JIajA3b0pBTzNURE9DT2gxL1NqMEdvSkxLc2VqQ25jY0JRPT0K",
-      "url": "https://github.com/saarthi-ai-77/vichith-updater/releases/download/v1.1.0/Vichith_1.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1hORnl5MDNQZDR6OEFhQjhHYmVhZ1JCb0xRNk5UN2RIZm9iYVFJZzNDbFdCL3l2U09jOU13RzhJQitqZlpKQmU2bk5uaHYxUkExcm02MnRXbnQyS1FqMkh5cFE1dFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTg3ODYyCWZpbGU6VmljaGl0aF8xLjEuMV94NjQtc2V0dXAuZXhlClJlajk3SU9GWEpPQjNDbUkvdE9WYW9UQ1lPdVlqS1A1MnFuNm15cDF4TkYrcUpQVjRkYjJKdUVDRkRoOEhoYS9ESDVKUmZjakw0ZnR4cE9iZSs3UUFRPT0K",
+      "url": "https://github.com/saarthi-ai-77/vichith-updater/releases/download/v1.1.1/Vichith_1.1.1_x64-setup.exe"
     }
   }
 }
