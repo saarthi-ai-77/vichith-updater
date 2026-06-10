@@ -1,11 +1,11 @@
 {
-  "version": "1.1.3",
-  "notes": "Version 1.1.3: Hotfix release correcting installer script paths for FFmpeg dynamic library dependencies on Windows.",
-  "pub_date": "2026-06-09T13:06:00+05:30",
+  "version": "1.1.4",
+  "notes": "Version 1.1.4: Release with preview canvas stabilization, playback engine scheduler fixes, and user-submitted performance optimizations.",
+  "pub_date": "2026-06-10T22:30:00+05:30",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1hORnl5MDNQZCtOdG8wMFNMOXV1T1orNWdRRVVaWXBoNmRtZS8wSW9TbUdTV29pSlh3ekhQaHlDTC9HK0hUM1RXU09Edi90TE16QytTb0R0ak5SSjBLMDZuM1Jzb3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTkwNTYzCWZpbGU6VmljaGl0aF8xLjEuM194NjQtc2V0dXAuZXhlCisrMWxTenJ5TlNIeHB2TURFTlcxdG1OTHpuRlFqZWFINmluWWUrRHRZWklZTmh3cFdKNTEwa29MSFlUOTlHQVo1dnQrR01SdDQwRzVFaHpMemJNOERRPT0K",
-      "url": "https://github.com/saarthi-ai-77/vichith-updater/releases/download/v1.1.3/Vichith_1.1.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1hORnl5MDNQZHphS1BVOU1qRy9kclZKK2k1Y29jMGZDUzhKTkI0eG05Z2xSTCtXTG81WlFZcXE4eHRLSFM1ZG9kYXN0eGhpVGgzMkFnVUJjMXZ1K3daM3dscHdjSVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMTEwODA0CWZpbGU6VmljaGl0aF8xLjEuNF94NjQtc2V0dXAuZXhlCjc0bVZhL2pybDc5NUZ1ejVOZjJ5MmpYeC9lR2JHSFlDWkxIWDFacXh3WmJWVmhScnBIYWZKYzN1RS91TUQyUTVqL1hOZUhsZGVCWXQ2QnRrTHBUZENRPT0K",
+      "url": "https://github.com/saarthi-ai-77/vichith-updater/releases/download/v1.1.4/Vichith_1.1.4_x64-setup.exe"
     }
   }
 }
