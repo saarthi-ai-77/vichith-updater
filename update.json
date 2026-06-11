@@ -1,11 +1,11 @@
 {
-  "version": "1.1.4",
-  "notes": "Version 1.1.4: Release with preview canvas stabilization, playback engine scheduler fixes, and user-submitted performance optimizations.",
-  "pub_date": "2026-06-10T22:30:00+05:30",
+  "version": "1.1.5",
+  "notes": "Version 1.1.5: Production release with preview gizmo stability improvements and audio waveforms generation fixes.",
+  "pub_date": "2026-06-11T23:55:00+05:30",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1hORnl5MDNQZHphS1BVOU1qRy9kclZKK2k1Y29jMGZDUzhKTkI0eG05Z2xSTCtXTG81WlFZcXE4eHRLSFM1ZG9kYXN0eGhpVGgzMkFnVUJjMXZ1K3daM3dscHdjSVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMTEwODA0CWZpbGU6VmljaGl0aF8xLjEuNF94NjQtc2V0dXAuZXhlCjc0bVZhL2pybDc5NUZ1ejVOZjJ5MmpYeC9lR2JHSFlDWkxIWDFacXh3WmJWVmhScnBIYWZKYzN1RS91TUQyUTVqL1hOZUhsZGVCWXQ2QnRrTHBUZENRPT0K",
-      "url": "https://github.com/saarthi-ai-77/vichith-updater/releases/download/v1.1.4/Vichith_1.1.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1hORnl5MDNQZDEzUmVtWXRDMEtwd21IM1RTekdDNXlLUnhCeWpNQUtuMmZPYk56VStpWCsxWi9qTklOeG9DNXhaaHNVU3g1WHdieVo1OUxFLzNpdzdxYXN4T0gvWEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjAyNjY5CWZpbGU6VmljaGl0aF8xLjEuNV94NjQtc2V0dXAuZXhlCm9wYWhvZlh5YzFRTnFJL1p0NU9WSWJNY1BXaFhHRGtjWkVpZVlScG4wK1MyY25RdzBoMXBiS1B6ZnVQWEVJV0JLQkI5dUdML09tWko1VG4zUnlEZkNBPT0K",
+      "url": "https://github.com/saarthi-ai-77/vichith-updater/releases/download/v1.1.5/Vichith_1.1.5_x64-setup.exe"
     }
   }
 }
