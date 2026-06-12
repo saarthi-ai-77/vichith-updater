@@ -1,11 +1,11 @@
 {
-  "version": "1.1.5",
-  "notes": "Version 1.1.5: Production release with preview gizmo stability improvements and audio waveforms generation fixes.",
-  "pub_date": "2026-06-11T23:55:00+05:30",
+  "version": "1.1.6",
+  "notes": "Version 1.1.6: Production release resolving preview gizmo stability and audio waveforms generation issues.",
+  "pub_date": "2026-06-12T17:05:00+05:30",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1hORnl5MDNQZDEzUmVtWXRDMEtwd21IM1RTekdDNXlLUnhCeWpNQUtuMmZPYk56VStpWCsxWi9qTklOeG9DNXhaaHNVU3g1WHdieVo1OUxFLzNpdzdxYXN4T0gvWEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjAyNjY5CWZpbGU6VmljaGl0aF8xLjEuNV94NjQtc2V0dXAuZXhlCm9wYWhvZlh5YzFRTnFJL1p0NU9WSWJNY1BXaFhHRGtjWkVpZVlScG4wK1MyY25RdzBoMXBiS1B6ZnVQWEVJV0JLQkI5dUdML09tWko1VG4zUnlEZkNBPT0K",
-      "url": "https://github.com/saarthi-ai-77/vichith-updater/releases/download/v1.1.5/Vichith_1.1.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1hORnl5MDNQZDYxOGdTZFJ1cnRXSXZlUDdVLzQ0elM0M3ZJWi9zWlFYc3h3RUZDOTRUUjcvdWk4VlV1dnBkMGExQ2ppTjA0ZE1tUWlteCt5NFNYMVpGS013dm0rcUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjY0MDc5CWZpbGU6VmljaGl0aF8xLjEuNl94NjQtc2V0dXAuZXhlCkVPeGowRkJ5TlQvWnRuak42MjQ4UTJSVDVKZzFac3lOQjA3OUxXOFFXNWtxNUl3bTUzRXRjcCtzcDJ5a25sTEFTMFlRRjZrZDAvRE1JV01aSlhsakNBPT0K",
+      "url": "https://github.com/saarthi-ai-77/vichith-updater/releases/download/v1.1.6/Vichith_1.1.6_x64-setup.exe"
     }
   }
 }
