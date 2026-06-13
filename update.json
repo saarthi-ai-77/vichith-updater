@@ -1,11 +1,11 @@
 {
-  "version": "1.1.7",
-  "notes": "Version 1.1.7: Production release resolving main audio playback issues.",
-  "pub_date": "2026-06-13T16:00:00+05:30",
+  "version": "1.1.8",
+  "notes": "Version 1.1.8: Production release with latest audio playback stabilization fixes.",
+  "pub_date": "2026-06-13T21:45:00+05:30",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1hORnl5MDNQZDd3djIwVHRQb1pRdEkwbjRzOSt3SnBHcnFDUVhZd3FCUmtVaVNoR1A0MkwreTFxLzJWZ2VVMTg4YU95Vi9RVVU3THk2RmxaWkFSb0hhWUZsbGFYVUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMzQ3MTYxCWZpbGU6VmljaGl0aF8xLjEuNl94NjQtc2V0dXAuZXhlCnFsQ2w5bjlmTFhqeXJoY01KYTZaUm5qd1BsdVV6dTJLUmYyQTNnTXFaaVBiN3dkU2VwZ1R4cFNOdVVaMWRMdjhvYTJLVmJ1UEY4REJrTDJ3dE1XbkFnPT0K",
-      "url": "https://github.com/saarthi-ai-77/vichith-updater/releases/download/v1.1.7/Vichith_1.1.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1hORnl5MDNQZC9aL2R2cS9nZlVmWEZKQ0JHVU5KOTdYZ3FtSFJVVU44dGZOZkQzQzc4Q0VMWVpaK2ZEY3FqVWNRSW5URDRYa244UExueTRWQUVTMDNBOVRSUTFGa1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMzY3NTQ5CWZpbGU6VmljaGl0aF8xLjEuOF94NjQtc2V0dXAuZXhlClAyUU82RkkrUHR6STZKOXdlZFdGRzZDcTJRQTJyQzV2aHY3d1NFSzVWbkVEVktkS1k3V25xT2txN3lwRjNlbThyb0VXUWJ5OXB3VlJrKy95ditXVUNBPT0K",
+      "url": "https://github.com/saarthi-ai-77/vichith-updater/releases/download/v1.1.8/Vichith_1.1.8_x64-setup.exe"
     }
   }
 }
