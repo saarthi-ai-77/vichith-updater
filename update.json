@@ -1,11 +1,11 @@
 {
-  "version": "1.1.9",
-  "notes": "Version 1.1.9: Production release with professional crossfades on live timeline edits and start-of-playback pre-priming.",
-  "pub_date": "2026-06-13T22:45:00+05:30",
+  "version": "1.1.10",
+  "notes": "Version 1.1.10: Production release with minor stability fixes.",
+  "pub_date": "2026-06-15T00:15:00+05:30",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1hORnl5MDNQZDFITkx4aEZVakFYaTNiN0htT0M5OEVmZXE0aHVKTndlREZ1YmM4cnMzVWpMNjNXRVJSRmFIV0l5bXNWREd3TFd1UnN0Mm5aQXl1Y0kxei9RTUdEaEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMzcxMjYzCWZpbGU6VmljaGl0aF8xLjEuOV94NjQtc2V0dXAuZXhlCm9TRnkwYVZoZ1ZxcWUzdGRKMGl3K3daZndOb1REMW9mOS94ZklQRm1KaG1VRkFzdThjMGoydVpXMEd0bFd6WU13TStvTTJ6L0NPSGtvdGZwaVJ0dUNnPT0K",
-      "url": "https://github.com/saarthi-ai-77/vichith-updater/releases/download/v1.1.9/Vichith_1.1.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1hORnl5MDNQZDhDOTNxaGEycU9sb2h1emp3eExFQThCbGt1VHBCYlg4R2ozc1BrK3BWMG1FNmh2SVZSZWM0SEVyR1UrZXRiUmc0M1Z5TjNBNjZCTTlsU24zRXAydlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNDYyNjc3CWZpbGU6VmljaGl0aF8xLjEuMTBfeDY0LXNldHVwLmV4ZQo2d25ZWGhMMVpmSHRtRGFBeG8wSUlkOUZMNWFOYTZJRTc0ZndEN01XZDd5QjR6NTlVK0ZZemZpUWpXOXdzQzN4WklJNjV6MlRGZ1dtSDB3amVjQk1EUT09Cg==",
+      "url": "https://github.com/saarthi-ai-77/vichith-updater/releases/download/v1.1.10/Vichith_1.1.10_x64-setup.exe"
     }
   }
 }
