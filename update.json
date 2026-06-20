@@ -1,11 +1,11 @@
 {
-  "version": "1.2.1",
-  "notes": "Version 1.2.1: Hotfix release resolving store test compilation errors.",
-  "pub_date": "2026-06-20T00:30:00+05:30",
+  "version": "0.5.0",
+  "notes": "Version 0.5.0: Fresh beta launch release with full features and stability fixes.",
+  "pub_date": "2026-06-21T01:30:00+05:30",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1hORnl5MDNQZDlVZmZOeTBQQURkVjY3cG0xRm11OENybFFXUEIrZXkvNDhxZjV0ZXQ5OExhelhZQWFNMk84NTgwZXVSUTk4L0svR3AwczNVWUg5OWRKR051bnlNekE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxODk2MTc4CWZpbGU6VmljaGl0aF8xLjIuMV94NjQtc2V0dXAuZXhlCm80VDRwL1pCM0czaGtlZ0g2cHQ2UTA1emJKMnQwNWZyMWxoT2Z5VFpyTU0zdFgwUGttMkdwek1GY3ZpWGIrODZrMUNRK3BVUjBvaFV2RWE0Y0ZWS0JBPT0K",
-      "url": "https://github.com/saarthi-ai-77/vichith-updater/releases/download/v1.2.1/Vichith_1.2.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1hORnl5MDNQZHg2N2VRY0tyZ1NEWldWdUtqa0NYazRaeE40cS9wM1pReFhHendTT015SFlXN0ZtK2llOUt0cVdiRU9MTEthUHZuYm5GMFVNYWk1bWdHUHJoMHdnUHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxOTg2MDg5CWZpbGU6VmljaGl0aF8wLjUuMF94NjQtc2V0dXAuZXhlCmRjVTZXT2MrVXFYeW1sWVhXdUIzNHRQbWtRYm9rWTM2OUppOXlIcTVBdkRiTmdNMEZ0dGIzc3gyc2ExL0RkQmNsQnNXVXFUQ0Jkb053akVCd1lDZEN3PT0K",
+      "url": "https://github.com/saarthi-ai-77/vichith-updater/releases/download/v0.5.0/Vichith_0.5.0_x64-setup.exe"
     }
   }
 }
