@@ -1,10 +1,10 @@
 {
   "version": "0.5.0",
   "notes": "Version 0.5.0: Fresh beta launch release with full features and stability fixes.",
-  "pub_date": "2026-06-22T00:25:00+05:30",
+  "pub_date": "2026-06-23T10:05:00+05:30",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1hORnl5MDNQZDErd3FwTkJUdmMwWWx5c2x0OXlWdGFZV0MvRnIvcUJuZVdTUXJRUm93YlpHT2hxeElneXJYSGk4L01aVDB1MXl0MWdEUzBBSG9iRVRKeXhsbktHNkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMDY4NDc2CWZpbGU6VmljaGl0aF8wLjUuMF94NjQtc2V0dXAuZXhlClg1cGRjRlhjZXVjSWIyN3BrbG5reHlpRzI5bHJ1emtWZGtRRy8xbWg4UWRuMVg1cGpTbU1ibUhHa2loaFJNL0hoZEgvL0U3NVpRZmxERjFZNXBnaUJ3PT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1hORnl5MDNQZDNwWUU2NFBqWi9qWEZXYis4QW83dGZBNk9BV0MxcGRPdHBaVUlwelJEaml3Sis3RWd1NXBQMHZmSm1tNVpYNnhWb0JBdEVnNWJPRzQyazJJRjZmYmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTg5MjkzCWZpbGU6VmljaGl0aF8wLjUuMF94NjQtc2V0dXAuZXhlCktYN0pNRXVROUIwTzdmbmVZYUh5OXFocFV6NVJxZ1hwTWdyVFlUeTIrK29VdkJQUFc4M2RSMHcyZFhlMTl4YVRSTElVWjQ3bUpaVUR4UEQ4eHZxNkRRPT0K",
       "url": "https://github.com/saarthi-ai-77/vichith-updater/releases/download/v0.5.0/Vichith_0.5.0_x64-setup.exe"
     }
   }
