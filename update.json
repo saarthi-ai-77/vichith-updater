@@ -1,11 +1,11 @@
 {
-  "version": "0.5.1",
-  "notes": "Version 0.5.1: Beta launch release compiling stability updates and agent runtime features.",
-  "pub_date": "2026-06-26T14:25:00+05:30",
+  "version": "0.5.2",
+  "notes": "Version 0.5.2: Beta launch release compiling stability updates and agent runtime features.",
+  "pub_date": "2026-06-30T13:05:00+00:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1hORnl5MDNQZDV5Tjd5QUkxSXMzNzV1RVVwTnNsY2tjQW5PdGplR3lZUmNaUDl3eEpiNWE2c0pyblNhNk45cGtkdGVIZVl6WXoxUVdrWEhvRWpIalg1Q3NhRDlOcXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDY0MjE0CWZpbGU6VmljaGl0aF8wLjUuMV94NjQtc2V0dXAuZXhlCjVuVVhYWWFoTTN3bEdKM3lRL1EydmdySlY5aHRpWDlBblQrUG9HRVhDU0dEYVd2bWlEWlprNGJpVlF2amFETTNCcThYeld5MUsyeGFqUk9IbTJEVER3PT0K",
-      "url": "https://github.com/saarthi-ai-77/vichith-updater/releases/download/v0.5.1/Vichith_0.5.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1hORnl5MDNQZDJQUnljNEV4RXJZZUFqNkpacVZ1bVhKM0FiTmJtdDliT0JYM2owaElkMTNtcW5mUnh1TUF6elJPUERDQnlXaVNPY0IvY0VvVk02M0ZCd21HZWtHcGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODI0NjY5CWZpbGU6VmljaGl0aF8wLjUuMl94NjQtc2V0dXAuZXhlClVPTXZ5TjNGOVZiWTFJNTMrcExLTVRpU3hyTU9aMjY4SjlsdEtTY2Vma1hXc3VzUHo5amN1enF6dk5lMHlFTk9pWTF5T084amczV2pScUtoTjgzK0F3PT0K",
+      "url": "https://github.com/saarthi-ai-77/vichith-updater/releases/download/v0.5.2/Vichith_0.5.2_x64-setup.exe"
     }
   }
 }
